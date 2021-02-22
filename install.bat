@@ -1,5 +1,5 @@
 @echo off
-cd %CD%\Sparkle-backend
+cd %CD%\NeutronFN-backend
 IF EXIST node_modules (
 color 05
 echo You already installed node_modules to reinstall delete the %CD%\node_modules folder
