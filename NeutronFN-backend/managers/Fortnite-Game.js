@@ -860,11 +860,11 @@ module.exports = (app, port) => {
                 "jcr:isCheckedOut": true,
                 "backgrounds": {
                     "backgrounds": [{
-                        "stage": "fortnitemares",
+                        "stage": "season15",
                         "_type": "DynamicBackground",
                         "key": "lobby"
                     }, {
-                        "stage": "fortnitemares",
+                        "stage": "season15",
                         "_type": "DynamicBackground",
                         "key": "vault"
                     }],
